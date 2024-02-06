@@ -13,4 +13,4 @@ User is then given a menu with 7 options and to input A letter corresponding to 
 6. Enter another string. (F)
 7. Exit the program. (X)
 
-The code will the return the result.
+The code will then return the result.
